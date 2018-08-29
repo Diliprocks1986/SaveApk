@@ -20,16 +20,16 @@
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3e38626b20c7e23938efa12cc544f03a\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_switch_track.xml.flat",
-        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3e38626b20c7e23938efa12cc544f03a\\res\\color-v23\\abc_tint_switch_track.xml"
+        "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_cancel_action.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\ce708e007cedee57d6f3f7976f2591b0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
         "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\color-v23_design_tint_password_toggle.xml.flat",
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\a767e06a763d134737e56b800ab800b1\\res\\color-v23\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_cancel_action.xml.flat",
-        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\ce708e007cedee57d6f3f7976f2591b0\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\color-v23_abc_tint_switch_track.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3e38626b20c7e23938efa12cc544f03a\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
         "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\color_abc_hint_foreground_material_dark.xml.flat",
@@ -64,12 +64,12 @@
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\a767e06a763d134737e56b800ab800b1\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\93413eadb31a4b91962ae10e2faf3fa8\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
         "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3e38626b20c7e23938efa12cc544f03a\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\93413eadb31a4b91962ae10e2faf3fa8\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable-v23_abc_control_background_material.xml.flat",
@@ -136,12 +136,12 @@
         "source": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\src\\main\\res\\mipmap-hdpi\\ic_type_folder.png"
     },
     {
-        "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_delete.png.flat",
-        "source": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_delete.png"
-    },
-    {
         "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_btn_check_material.xml.flat",
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3e38626b20c7e23938efa12cc544f03a\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_delete.png.flat",
+        "source": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_delete.png"
     },
     {
         "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\animator-v21_design_appbar_state_list_animator.xml.flat",
@@ -156,20 +156,20 @@
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3e38626b20c7e23938efa12cc544f03a\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3e38626b20c7e23938efa12cc544f03a\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable_circle_receive_bg.xml.flat",
         "source": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\src\\main\\res\\drawable\\circle_receive_bg.xml"
     },
     {
-        "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3e38626b20c7e23938efa12cc544f03a\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+        "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3e38626b20c7e23938efa12cc544f03a\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3e38626b20c7e23938efa12cc544f03a\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3e38626b20c7e23938efa12cc544f03a\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
@@ -264,12 +264,12 @@
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3e38626b20c7e23938efa12cc544f03a\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_in_bottom.xml.flat",
-        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3e38626b20c7e23938efa12cc544f03a\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
         "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3e38626b20c7e23938efa12cc544f03a\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3e38626b20c7e23938efa12cc544f03a\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -356,12 +356,12 @@
         "source": "D:\\Android\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3e38626b20c7e23938efa12cc544f03a\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_delete.png.flat",
-        "source": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_delete.png"
-    },
-    {
         "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_backup_dark.png.flat",
         "source": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_backup_dark.png"
+    },
+    {
+        "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_delete.png.flat",
+        "source": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_delete.png"
     },
     {
         "merged": "D:\\Android\\GitHub\\Android_Projects\\SaveApk\\app\\build\\intermediates\\res\\merged\\release\\color_abc_primary_text_disable_only_material_dark.xml.flat",
