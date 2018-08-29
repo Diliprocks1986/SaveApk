@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">APK Saver</string>
+    <string name="Shareit">Share Anything</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Replace with your own interstitial ad unit id. -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-2095842718359512/9494400854</string>
+
+    <!-- This is an ad unit ID for a test ad. Replace with your own banner ad unit id. -->
+    <string name="banner_ad_unit_id">ca-app-pub-2095842718359512/9278531010</string>
+
+    <string name="tab_title_backup">BACKUP</string>
+    <string name="tab_title_restore">RESTORE</string>
+
+    <string name="hint_backup_search">Search backup...</string>
+    <string name="hint_restore_search">Search restore...</string>
+
+    <string name="cancel_button_label">Cancel</string>
+    <string name="choose_button_label">Select</string>
+    <string name="default_dir" translatable="false">/sdcard</string>
+    <string name="label_parent_directory">Parent Directory</string>
+    <string name="last_edit">Last edited: </string>
+    <string name="error_dir_access">Directory cannot be accessed</string>
+    <string name="label_parent_dir" translatable="false">...</string>
+
+    <string name="about_text">Apk Saver app allow you to Save, Restore and Share, with simple and elegant design</string>
+    <string name="no_saved_apk_found">No Saved Apk Found</string>
+    <string name="send">Send</string>
+    <string name="receive">Receive</string>
+    <string name="receiver_title">Receive Files</string>
+    <string name="send_title">Send Files</string>
+
+    <string name="sender_data_on_warning">It is highly recommend to close Mobile DATA, Receivers may be able to use mobile data.</string>
+
+    <string name="p2p_sender_system_settings_permission_prompt">Allow app to read/write System settings. Necessary to create a Wifi Hotspot for Offline File Transfers</string>
+
+    <string name="p2p_label_transfer_files">Transfer Files</string>
+    <string name="p2p_label_receive_files">Receive Files</string>
+    <string name="p2p_connect_to_diff_sender"><u>Click here to connect to a different Sender</u></string>
+    <string name="p2p_receiver_files_header">Files available to download</string>
+    <string name="p2p_receiver_scanning_hint">Scanning for a SHAREthem Hotspot&#8230;</string>
+    <string name="p2p_receiver_connecting_hint">Connecting to %s Hotspot&#8230;</string>
+    <string name="p2p_receiver_error_in_connecting">Failed to connect with %s Hotspot. Retrying again..</string>
+    <string name="p2p_receiver_connected_hint" formatted="false">Connected to %s\nYour Device IP: %s</string>
+    <string name="p2p_receiver_connect_timeout_error">Could not connect to SHAREthem Hotspot. Please go to Wifi settings and chose %s to start video transfer from Sender.</string>
+    <string name="p2p_receiver_close_warning">Do you want to turn-off Receiver mode?</string>
+    <string name="p2p_receiver_gps_permission_warning">Without Location(GPS) permission Spuul app is unable to Receive videos offline from Senders. Are you sure to deny this permission?</string>
+    <string name="p2p_receiver_gps_no_permission_prompt">Please enable Location(GPS) permission to proceed with receiving Spuul videos Offline.\nPress Settings button and goto Permissions section to grant LOCATION PERMISSION(GPS)</string>
+    <string name="p2p_receiver_error_sender_disconnected">Sender Hotspot disconnected. retrying..</string>
+
+    <string name="p2p_sender_hint_wifi_connected" formatted="false">• Open Receiver App in \'Receiver mode\' \n(Or)\n• Open WiFi settings and connect \n%s Hotspot &amp; enter\n%s\non a browser\'s address bar.</string>
+    <string name="p2p_sender_subtitle">Hotspot Initialised!!</string>
+
+    <string name="p2p_sender_service_notification_header">ShareThem Wifi Hotspot Enabled</string>
+    <string name="p2p_sender_service_init_notification_header">Initiating ShareThem Hotspot&#8230;</string>
+    <string name="p2p_sender_hint_connecting">Initializing Wifi Hotspot&#8230;</string>
+    <string name="p2p_sender_close_warning">Do you want to stop sharing files?</string>
+    <string name="p2p_sender_shared_list_label"><u>Shared files: </u></string>
+
+    <string name="p2p_sender_hint_text">Turn ON \'Send Files\' to start File Sharing</string>
+    <string name="p2p_receiver_hint_text">Turn ON \'Receive Files\' to receive files from Sender</string>
+
+    <string name="Action_Ok">OK</string>
+    <string name="Action_cancel">Cancel</string>
+
+    <string name="label_settings">Settings</string>
+    <string name="label_thats_ok">That\'s OK</string>
+    <string name="label_dont_ask">Don\'t ask again</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">Grant Permission</string>
+
+    <string name="slide_1_title">Save APK</string>
+    <string name="slide_1_desc">The easiest way to Backup your installed APK\'s in a Single Click!</string>
+
+    <string name="slide_2_title">Install APK</string>
+    <string name="slide_2_desc">Install Your Backup APK\'s in a Single click!</string>
+
+    <string name="slide_3_title">Share APK</string>
+    <string name="slide_3_desc">Share your Backup APK\'s to other User!</string>
+
+    <string name="slide_4_title">Storage Permission</string>
+    <string name="slide_4_desc">For Backup Related work this app required your phone storage permission!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+</resources>

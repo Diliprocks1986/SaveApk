@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1087336569390",
+    "firebase_url": "https://apk-saver-143.firebaseio.com",
+    "project_id": "apk-saver-143",
+    "storage_bucket": "apk-saver-143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087336569390:android:851e48a8563aed00",
+        "android_client_info": {
+          "package_name": "com.dilippashi.saveapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087336569390-h5v48ipbb3q6t5sqj3llg889i7j2c4g3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dilippashi.saveapk",
+            "certificate_hash": "69b88bff38336868b6673e71382c85c55d9f7324"
+          }
+        },
+        {
+          "client_id": "1087336569390-9p0gsqcim3k5bch9k7h6cjsoul6t4f95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbGpq4rkJRtXCDL7f5nLEU6osiK9HchiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087336569390-9p0gsqcim3k5bch9k7h6cjsoul6t4f95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

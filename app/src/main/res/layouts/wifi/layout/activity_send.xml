@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_demo"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".SendActivity">
+
+    <include layout="@layout/toolbar" />
+
+
+    <LinearLayout
+        android:id="@+id/ll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/share_them_actions_margin"
+            android:layout_marginRight="@dimen/share_them_actions_margin"
+            android:background="@drawable/send_button_bg"
+            android:gravity="center"
+            android:onClick="sendFiles"
+            android:text="@string/send"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/circular_textview_size"
+            tools:ignore="ButtonStyle" />
+
+        <Button
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/receive_button_bg"
+            android:gravity="center"
+            android:onClick="receiveFiles"
+            android:text="@string/receive"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/circular_textview_size"
+            tools:ignore="ButtonStyle" />
+    </LinearLayout>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/ad_view1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        app:adSize="BANNER"
+        app:adUnitId="@string/banner_ad_unit_id" />
+
+</RelativeLayout>

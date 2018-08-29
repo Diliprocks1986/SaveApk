@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tappx.sdk.android:tappx-sdk-3.0.12">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../.gradle/caches/transforms-1/files-1.1/tappx-sdk-3.0.12.aar/1a8035efde23ba913ff812e9fd919e38/res" />
+      <root url="jar://$PROJECT_DIR$/../../../.gradle/caches/transforms-1/files-1.1/tappx-sdk-3.0.12.aar/1a8035efde23ba913ff812e9fd919e38/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
